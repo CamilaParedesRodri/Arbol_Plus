@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.arbolplus_grupo;
+package com.arbolplus;
 import javax.swing.JOptionPane;
 
 /**
@@ -109,5 +109,4 @@ public class ArbolPlus_Grupo {
         } while (opcion != 5);
     }
 }
-
 
